@@ -1,0 +1,8 @@
+{
+  "name": "LUMEN｜今彩539",
+  "short_name": "LUMEN539",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#146c5b",
+  "background_color": "#f4f6f8"
+}

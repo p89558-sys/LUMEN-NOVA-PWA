@@ -1,0 +1,8 @@
+{
+  "name": "NOVA｜四星彩",
+  "short_name": "NOVA4S",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#6046a5",
+  "background_color": "#f4f6f8"
+}
